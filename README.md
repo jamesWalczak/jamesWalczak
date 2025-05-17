@@ -14,6 +14,8 @@ Welcome to my GitHub! I'm an AI/ML researcher, educator, and programmer passiona
   - Introduction to data science and machine learning
   - Visualising and reporting data
   - Data scientists development environment and introduction to programming in Python
+- 👥 Membership
+  - Member of the Council of the Discipline of Technical Informatics and Telecommunications in years 2024-2028
 - 🤖 **Research Interests**:
   - 3D scene understanding,
   - AI for climate science,
